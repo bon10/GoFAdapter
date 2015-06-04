@@ -11,4 +11,4 @@
 
 概念的にはそんな感じ。ｳﾎﾞﾎﾞ
 
-
+学習元サイト：[http://www.techscore.com/tech/DesignPattern/Adapter/Adapter1.html/](http://www.techscore.com/tech/DesignPattern/Adapter/Adapter1.html/)
